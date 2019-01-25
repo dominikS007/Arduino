@@ -2,7 +2,6 @@
 Display LCD
 
 ### Components needed 
-* Potentiometer
 * LCD screen
 * 220 OHM resistor
 
