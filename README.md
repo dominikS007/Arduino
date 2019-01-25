@@ -6,7 +6,7 @@
 
 ## Displaying a temperature with a 16x2 LCD
 
-![https://github.com/dominikS007/Arduino/tree/workingBranch/tempLcd
+![https://github.com/dominikS007/Arduino/tree/workingBranch/tempLcd]
 (https://github.com/dominikS007/Arduino/blob/workingBranch/tempLcd/pic.PNG)
 
 ## Displaying on a 16x2 LCD
