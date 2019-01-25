@@ -1,4 +1,4 @@
-#include<LiquidCrystal.h> 
+#include <LiquidCrystal.h> 
 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2); 
 
@@ -12,11 +12,14 @@ void setup()
   digitalWrite(9, LOW); //outputs no power to the contrast pin this lets you see the words
   analogWrite(10, 255);	//Outputs full power to the screen brightness LED
   Serial.begin(9600);
+  lcd.setCursor(0, 1);
+  lcd.print("Starting Up...");
+  lcd.clear();
   
 }
 void loop()
 {
-  lcd.setCursor(0, 0);
+  lcd.setCursor(0, 1);
 
   float voltage, degreesC, degreesF;  
 
