@@ -9,9 +9,7 @@ Potentiometer changes the servo motor direction
 * 100UF capacitor
 
 ### How to build
-![setUp Pic](https://github.com/dominikS007/Arduino/blob/workingBranch/moodCue/img.PNG)
+![setUp Pic](https://github.com/dominikS007/Arduino/blob/workingBranch/movingServo/img.PNG)
 
 ### Acknowledgments
 [Servo library](https://www.arduino.cc/en/Reference/Servo)
-
-
