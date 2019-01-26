@@ -1,5 +1,5 @@
-# LCD with temparature
-LCD Display that shows the temparature
+# Motor with potentiometer
+Changing the potentiometer changes the RPM of the motor 
 
 ### Components needed 
 * Arduino Uno R3
